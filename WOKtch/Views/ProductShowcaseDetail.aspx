@@ -39,7 +39,7 @@
                         </div>
                         <asp:Panel ID="editorAdmin" runat="server" CssClass="card-body" Visible="false">
                             <%--<div id="editorAdmin" runat="server" class="card-body" Visible="true">--%>
-                            <asp:HyperLink ID="HyperLink1" runat="server" CssClass="card-link" NavigateUrl='<%# string.Format("{0}?review={1}", "Update.aspx", Eval("ReviewId")) %>'>Edit</asp:HyperLink>
+                            <asp:HyperLink ID="HyperLink1" runat="server" CssClass="card-link" NavigateUrl='<%# string.Format("{0}?review={1}", "UpdateReview.aspx", Eval("ReviewId")) %>'>Edit</asp:HyperLink>
                             <asp:HyperLink ID="HyperLink2" runat="server" CssClass="card-link" NavigateUrl='<%# string.Format("{0}?review={1}", "Delete.aspx", Eval("ReviewId")) %>'>Delete</asp:HyperLink>
                             <%--</div>--%>
                         </asp:Panel>

@@ -12,16 +12,15 @@ namespace WOKtch.Views
 {
     public partial class Delete : System.Web.UI.Page
     {
-        int ProductId, UserId;
+        int ProductId, UserId, ReviewId;
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Session["user"] == null) Response.Redirect("Login.aspx");
-            else { 
-                User u = (User)Session["user"];
-                if(u.UserRole == 0) Response.Redirect("Home.aspx");
+            else {
+                //User u = (User)Session["user"];
+                //if(u.UserRole == 0) Response.Redirect("Home.aspx");
+                deleteValue();
             }
-
-            deleteValue();
         }
         // DELETE BY GETTING PARAMETER FROM URL
         private void deleteValue() {
@@ -48,6 +47,14 @@ namespace WOKtch.Views
                 UserHandler.Delete(UserId);
 
                 Response.Redirect("Member.aspx");
+            }else if (Request.QueryString["review"] != null)
+            {
+                ReviewId = Int32.Parse(Request.QueryString["review"]);
+                //Review r = ReviewHandler.GetById(ReviewId);
+                ReviewHandler.Delete(ReviewId);
+
+                //Response.Redirect("ProductShowCaseDetail.aspx?productId=" + ProductId);
+                Response.Redirect("Home.aspx");
             }
         }
     }
