@@ -1,0 +1,242 @@
+﻿/*
+    MEMBER
+*/
+.small-container {
+    width: 60%;
+    padding: 10px 20px;
+    margin: 0 auto;
+}
+.horizontal {
+    margin: 0 auto;
+}
+.breaking {
+    width: 500px;
+    overflow: auto;
+}
+/*.small-form-control {
+    padding: 0.75rem 2rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #55595c;
+    border: 1px solid #ced4da;
+    border-radius: 0;
+}*/
+
+
+/*
+    PROFILE
+*/
+.profileContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.profileItemPP{
+    flex-basis: 1;
+}
+.resized{
+    width: 500px;
+    height: 500px;
+}
+.profileItemBiodata{
+    flex-grow: 1;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.profileItemBiodataList{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.profileItemBiodataRowList{
+    flex-basis: 1;
+}
+
+
+
+
+
+.small-image {
+    width: 100px;
+    height: 100px;
+}
+/*
+    PRODUCTSHOWCASEDETAIL
+*/
+.product {
+    display: flex;
+}
+.image-show {
+    width: auto;
+    max-height: 360px;
+    min-height: 360px;  
+}
+.showcase-image-preview {
+
+}
+.showcase-product-preview {
+    flex: 1 1 auto;
+}
+.showcase-product-preview .box {
+    margin: 12px 16px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: 100%;
+    justify-content: center;
+}
+.showcase-product-preview .box .product-preview-name {
+    
+}
+
+/*
+    Repeater MEMBER
+*/
+.thead {
+    vertical-align: bottom;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+}
+
+.table-exception {
+    width: 100%;
+    max-width: 100%;
+    background-color: transparent;
+}
+
+.colMax {
+    max-width: 33%;
+    background-color: transparent;
+}
+
+/*
+    Repeater HOME
+*/
+.img {
+    height: 100%;
+    width: 100%;
+}
+
+.mt-3 {
+    margin-top: 1rem !important;
+}
+@media (min-width: 0px) {
+    .card-headera {
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 0;
+        background-color: rgba(0, 0, 0, 0.03);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+        font-size: 1rem;
+    }
+    .card-container {
+        width: 33%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+@media (min-width: 576px) {
+    .card-container {
+        width: 33%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media (min-width: 768px) {
+    .card-header{
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 0;
+        background-color: rgba(0, 0, 0, 0.03);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+        font-size: 1.5rem;
+    }
+    .card-container {
+        width: 40%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media (min-width: 992px) {
+    .card-header{
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 0;
+        background-color: rgba(0, 0, 0, 0.03);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+        font-size: 1.5rem;
+    }
+    .card-container {
+        width: 33%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media (max-width: 1200px) {
+    .card-header{
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 0;
+        background-color: rgba(0, 0, 0, 0.03);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+        font-size: 1.5rem;
+    }
+    .card-container {
+        width: 33%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+
+/*
+    GridView
+*/
+.GridViewStyle {
+    width: 100%;
+    max-width: 60%;
+    background-color: transparent;
+    margin: 0.2rem auto 1rem;
+    text-align: center;
+}
+
+.GridViewHeaderStyle {
+    background-color: #FFFFFF;
+    font-weight: bold;
+    color: #919AA2;
+    vertical-align: bottom;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+    padding: 50px;
+}
+
+.GridViewHeaderStyle th {
+    padding: 10px 30px;
+    border-top: 1px solid transparent;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+}
+
+.GridViewRowStyle {
+    background-color: #ECECEC;
+    color: #919AA1;
+}
+
+.GridViewRowStyle .myAltRowClass {
+    background: #fcfcfc repeat-x top;
+}
+
+.GridViewRowStyle td {
+    padding: 10px 30px;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+}
+

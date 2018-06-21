@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TemplatePage.master.cs" Inherits="WOKtch.Views.TemplatePage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <link href="../Assets/bootstrap.css" rel="stylesheet" />
+    <link href="../Assets/styles.css" rel="stylesheet" />
+</head>
+<body>
+
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="Home.aspx">WOKtch</a>
+
+            <div class="collapse navbar-collapse" id="navbarColor03">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item" runat="server" id="product" visible="false">
+                        <a class="nav-link" href="ProductShowCase.aspx">Product</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="member" visible="false">
+                        <a class="nav-link" href="Member.aspx">Member</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="login" visible="false">
+                        <a class="nav-link" href="Login.aspx">Login</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="register" visible="false">
+                        <a class="nav-link" href="Register.aspx">Register</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="add" visible="false">
+                        <a class="nav-link" href="Add.aspx">Add</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="addToCart" visible="false">
+                        <a class="nav-link" href="AddToCart.aspx">Add To Cart</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="update" visible="false">
+                        <a class="nav-link" href="Update.aspx">Update</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="delete" visible="false">
+                        <a class="nav-link" href="Delete.aspx">Delete</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="logout" visible="false">
+                        <a class="nav-link" href="Logout.aspx">Logout</a>
+                    </li>
+                    <li class="nav-item" runat="server" id="Li1" visible="false">
+                        <a class="nav-link" href="Logout.aspx">Logout</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <asp:Label ID="member_label" runat="server" Text=""></asp:Label>
+                      
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                            <ContentTemplate>
+                                <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+                                  <asp:Label ID="date_label" runat="server" Text=""></asp:Label>
+                                <asp:Timer ID="date" runat="server" Interval="1000" OnTick="myTimer_Tick"></asp:Timer>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+
+    </form>
+    
+</body>
+</html>

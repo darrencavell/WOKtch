@@ -1,0 +1,202 @@
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\ApplicationInsights.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\csc.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\System.Collections.Immutable.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\vbc.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\VBCSCompiler.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\roslyn\VBCSCompiler.exe.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\WOKtch.dll.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\WOKtch.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\WOKtch.pdb
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.Web.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.WindowsServer.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.ApplicationInsights.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.Web.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.AI.WindowsServer.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.ApplicationInsights.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\obj\Debug\WOKtch.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch\WOKtch\obj\Debug\WOKtch.pdb
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\ApplicationInsights.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\csc.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\System.Collections.Immutable.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\vbc.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\VBCSCompiler.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\roslyn\VBCSCompiler.exe.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\WOKtch.dll.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\WOKtch.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\WOKtch.pdb
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.Web.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.WindowsServer.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.ApplicationInsights.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.Web.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.AI.WindowsServer.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.ApplicationInsights.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\obj\Debug\WOKtch.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch - Copy\WOKtch\obj\Debug\WOKtch.pdb
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\ApplicationInsights.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\csc.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\System.Collections.Immutable.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\vbc.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\VBCSCompiler.exe
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\roslyn\VBCSCompiler.exe.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\WOKtch.dll.config
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\WOKtch.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\WOKtch.pdb
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.Web.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.WindowsServer.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.ApplicationInsights.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.Web.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.AI.WindowsServer.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.ApplicationInsights.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\obj\Debug\WOKtch.dll
+D:\Important\DarrenCavell\Documents\CODING\KULIAHRELATED\Semester 4\PSD\WOKtch-Short\WOKtch\obj\Debug\WOKtch.pdb
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\ApplicationInsights.config
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\csc.exe
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\System.Collections.Immutable.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\vbc.exe
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\VBCSCompiler.exe
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\roslyn\VBCSCompiler.exe.config
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\WOKtch.dll.config
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\WOKtch.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\WOKtch.pdb
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.Web.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.WindowsServer.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.ApplicationInsights.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.Web.xml
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.AI.WindowsServer.xml
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.ApplicationInsights.xml
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\obj\Debug\WOKtch.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\PROJECT\WOKtch-Short\WOKtch\obj\Debug\WOKtch.pdb
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\12-FINAL\Darren, Nopal, Oliver, Jefri\WOKtch-master\WOKtch-master\WOKtch\obj\Debug\WOKtch.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\12-FINAL\Darren, Nopal, Oliver, Jefri\WOKtch-master\WOKtch-master\WOKtch\obj\Debug\WOKtch.pdb
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\12-FINAL\Darren, Nopal, Oliver, Jefri\WOKtch-master\WOKtch\obj\Debug\WOKtch.dll
+D:\Darren Cavell\Documents\CODING\KULIAHRELATED\Semester 4\Pattern Software Design\12-FINAL\Darren, Nopal, Oliver, Jefri\WOKtch-master\WOKtch\obj\Debug\WOKtch.pdb
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\ApplicationInsights.config
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\csc.exe
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\System.Collections.Immutable.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\vbc.exe
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\VBCSCompiler.exe
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\roslyn\VBCSCompiler.exe.config
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\WOKtch.dll.config
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\WOKtch.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\WOKtch.pdb
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.Web.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.WindowsServer.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.ApplicationInsights.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.Web.xml
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.AI.WindowsServer.xml
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.ApplicationInsights.xml
+D:\Darren Cavell\WOKtch-master\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Darren Cavell\WOKtch-master\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
+D:\Darren Cavell\WOKtch-master\WOKtch\obj\Debug\WOKtch.dll
+D:\Darren Cavell\WOKtch-master\WOKtch\obj\Debug\WOKtch.pdb
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\ApplicationInsights.config
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\csc.exe
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\System.Collections.Immutable.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\vbc.exe
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\VBCSCompiler.exe
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\roslyn\VBCSCompiler.exe.config
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\WOKtch.dll.config
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\WOKtch.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\WOKtch.pdb
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.Web.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.WindowsServer.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.ApplicationInsights.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.Web.xml
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.AI.WindowsServer.xml
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.ApplicationInsights.xml
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\obj\Debug\WOKtch.dll
+D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\obj\Debug\WOKtch.pdb
