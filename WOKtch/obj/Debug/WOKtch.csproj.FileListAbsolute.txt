@@ -200,3 +200,36 @@ D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\bin\Microsoft.CodeDom.Pro
 D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
 D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\obj\Debug\WOKtch.dll
 D:\Darren Cavell\Documents\CODING\WOKtch-master\WOKtch\obj\Debug\WOKtch.pdb
+D:\Git\WOKtch\WOKtch\bin\ApplicationInsights.config
+D:\Git\WOKtch\WOKtch\bin\roslyn\csc.exe
+D:\Git\WOKtch\WOKtch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git\WOKtch\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\WOKtch\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git\WOKtch\WOKtch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git\WOKtch\WOKtch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git\WOKtch\WOKtch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git\WOKtch\WOKtch\bin\roslyn\System.Collections.Immutable.dll
+D:\Git\WOKtch\WOKtch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git\WOKtch\WOKtch\bin\roslyn\vbc.exe
+D:\Git\WOKtch\WOKtch\bin\roslyn\VBCSCompiler.exe
+D:\Git\WOKtch\WOKtch\bin\roslyn\VBCSCompiler.exe.config
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.Web.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.WindowsServer.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.ApplicationInsights.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.Web.xml
+D:\Git\WOKtch\WOKtch\bin\Microsoft.AI.WindowsServer.xml
+D:\Git\WOKtch\WOKtch\bin\Microsoft.ApplicationInsights.xml
+D:\Git\WOKtch\WOKtch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git\WOKtch\WOKtch\obj\Debug\WOKtch.csprojResolveAssemblyReference.cache
+D:\Git\WOKtch\WOKtch\obj\Debug\WOKtch.dll
+D:\Git\WOKtch\WOKtch\obj\Debug\WOKtch.pdb
+D:\Git\WOKtch\WOKtch\bin\WOKtch.dll.config
+D:\Git\WOKtch\WOKtch\bin\WOKtch.dll
+D:\Git\WOKtch\WOKtch\bin\WOKtch.pdb
