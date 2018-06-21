@@ -38,8 +38,8 @@ namespace WOKtch.Views
         {
             notificationSuccess_label.Text = "";
             notificationError_label.Text = "";
-            error_box.Visible = true;
-            success_box.Visible = true;
+            error_box.Visible = false;
+            success_box.Visible = false;
             User u = UserHandler.Get(inputUserEmail_textBox.Text, inputUserPassword_textBox.Text);           // PASSING THE "DATA", COMPARING THE "DATA" TO THE DB, RETURNS IT
             if (u != null) {                                                                                // IF THE "DATA" EXIST
                 Session["user"] = u;                                                                        // CREATE A SESSION NAMED "USER"
@@ -48,7 +48,7 @@ namespace WOKtch.Views
                     Response.Cookies["username"].Expires = DateTime.Now.AddHours(1);                        // SET THE COOKIE EXPIRED TIME
                 }
                 success_box.Visible = true;
-                notificationSuccess_label.Text = "Loggin Success";
+                notificationSuccess_label.Text = "Login Success";
                 Response.Redirect("Home.aspx");                                                             // REDIRECT TO "HOME.ASPX"
             }
             else {                                                                  

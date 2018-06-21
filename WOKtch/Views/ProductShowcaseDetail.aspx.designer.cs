@@ -40,6 +40,24 @@ namespace WOKtch.Views {
         protected global::System.Web.UI.WebControls.Label productPrice;
         
         /// <summary>
+        /// productStock control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label productStock;
+        
+        /// <summary>
+        /// addToCartSection control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel addToCartSection;
+        
+        /// <summary>
         /// textbox_userId control.
         /// </summary>
         /// <remarks>

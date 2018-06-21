@@ -15,13 +15,16 @@
                     <div class="display-4">
                         $<asp:Label ID="productPrice" runat="server" Text="" CssClass="product-preview-price"><h3></h3></asp:Label>
                     </div>
+                    <div>
+                        <asp:Label ID="productStock" runat="server" Text="" CssClass="product-preview-quantity"><h3></h3></asp:Label> left
+                    </div>
                     <p>
                         Some quick example text to build on the card title and make up the bulk of the card's content.
                     </p>
-                    <div>
+                    <asp:Panel ID="addToCartSection" runat="server" Visible="false">
                         <asp:TextBox ID="textbox_userId" runat="server" placeholder="Input quantity" CssClass="form-control w-50 custom-control-inline"></asp:TextBox>
                         <asp:Button CssClass="btn btn-primary" runat="server" Text="Add To Cart" OnClick="add_button_Click" /> 
-                    </div>
+                    </asp:Panel>
                 </div>
             </div>
         </div>

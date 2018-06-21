@@ -16,7 +16,7 @@ namespace WOKtch.Views
         User u = null;
         protected void Page_Load(object sender, EventArgs e){
             if (Request.QueryString["productId"] == null) Response.Redirect("Home.aspx");
-            if (Session["user"] != null) { u = (User)Session["user"]; showReviewSection(u); }               // IF SESSION NAMED "USER" EXIST: SET IT TO USER MODEL, SHOW USERNAME ON THE NAMELABEL
+            if (Session["user"] != null) { u = (User)Session["user"]; showSection(u); }                     // IF SESSION NAMED "USER" EXIST: SET IT TO USER MODEL, SHOW USERNAME ON THE NAMELABEL
             var masterPage = Master as TemplatePage;                                                        // DEFINE THE "MASTERPAGE"
             masterPage.setPageViewAfterLogin(u);                                                            // SET THE LINK VIEW
             setPreview();
@@ -28,6 +28,7 @@ namespace WOKtch.Views
 
                 productName.Text = p.ProductName;
                 productPrice.Text = p.ProductPrice.ToString();
+                productStock.Text = p.ProductStock.ToString();
                 image.ImageUrl = string.Format("~/{0}", p.ProductImage);
 
                 DataTable reviews = ReviewHandler.GetAllByProductId(ProductId);
@@ -38,9 +39,10 @@ namespace WOKtch.Views
             }
         }
 
-        private void showReviewSection(User u) {
+        private void showSection(User u) {
             if(u != null) {
                 reviewSection.Visible = true;
+                addToCartSection.Visible = true;
             }
         }
 
